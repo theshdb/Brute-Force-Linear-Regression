@@ -11,4 +11,4 @@
 
 ## To-Do:
   
-  - Add the "Real estate valuation data set.csv" file path to the variable **file_path** in the file _main.py_ at line **47**.
+  - Add the "Real estate valuation data set.csv" file path to the variable **file_path** in the file _main.py_ at line **41**.
